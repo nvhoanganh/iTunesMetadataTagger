@@ -48,3 +48,4 @@ Notes:
 1. iTunes must be installed and running when you run this application.
 2. Everytime this application has successfully updated a track, it will set the comments field in iTunes to "processed". The next time, it will skip all tracks that comments field is "processed", unless you specifically set the search term to be "processed" (which is equivalent to reprocess all tracks again)
 3. supported itunes version: from 11.1.3.x
+4. .Net 3.5 or above is required. 
