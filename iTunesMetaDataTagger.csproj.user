@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory />
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>\\Music\\%28%3f&lt;Genre&gt;[^\\]+%29\\%28%3f&lt;Performer&gt;[^\\]+%29\\%28%3f&lt;Album&gt;[^\\]+%29\\%28%3f&lt;Name&gt;[^\\]+%29\.wav</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-s "processed" -regex "\\Music\\%28%3f&lt;Genre&gt;[^\\]+%29\\%28%3f&lt;Performer&gt;[^\\]+%29\\%28%3f&lt;Album&gt;[^\\]+%29\\%28%3f&lt;TrackName&gt;[^\\]+%29\.[a-zA-Z0-9]{3,}%24" -regex "\\Music
+\\%28%3f&lt;Genre&gt;[^\\]+%29\\%28%3f&lt;Album&gt;[^\\]+%29\\%28%3f&lt;TrackName&gt;[^\\]+%29\.[a-zA-Z0-9]{3,}%24"</StartArguments>
+  </PropertyGroup>
+</Project>

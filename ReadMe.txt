@@ -1,6 +1,3 @@
-iTunesMetadataTagger
-====================
-
 This command line application will automatically update iTunes track with missing metadata which is stored in the 
 audio file (itunes doesn't read metadata for .WAV files, see https://discussions.apple.com/thread/3565668?tstart=0) . 
 

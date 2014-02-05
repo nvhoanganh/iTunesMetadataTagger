@@ -1,0 +1,20 @@
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\obj\Debug\Interop.iTunesLib.dll
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\obj\Debug\RemoveDeadFiles.csproj.ResolveComReference.cache
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\bin\Debug\RemoveDeadFiles.exe
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\bin\Debug\RemoveDeadFiles.pdb
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\bin\Debug\Interop.iTunesLib.dll
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\obj\Debug\RemoveDeadFiles.csprojResolveAssemblyReference.cache
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\obj\Debug\RemoveDeadFiles.exe
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\obj\Debug\RemoveDeadFiles.pdb
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\bin\Debug\RemoveDeadFiles.exe.config
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\bin\Debug\MediaInfoNET.dll
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\bin\Debug\RemoveDeadFiles.exe.config
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\bin\Debug\RemoveDeadFiles.exe
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\bin\Debug\RemoveDeadFiles.pdb
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\bin\Debug\MediaInfoNET.dll
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\bin\Debug\Interop.iTunesLib.dll
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\obj\Debug\RemoveDeadFiles.csprojResolveAssemblyReference.cache
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\obj\Debug\Interop.iTunesLib.dll
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\obj\Debug\RemoveDeadFiles.csproj.ResolveComReference.cache
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\obj\Debug\RemoveDeadFiles.exe
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\obj\Debug\RemoveDeadFiles.pdb

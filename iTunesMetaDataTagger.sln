@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTunesMetaDataTagger", "iTunesMetaDataTagger.csproj", "{79B479E1-16E4-484D-A375-755070B7BF1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B479E1-16E4-484D-A375-755070B7BF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B479E1-16E4-484D-A375-755070B7BF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B479E1-16E4-484D-A375-755070B7BF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B479E1-16E4-484D-A375-755070B7BF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+iTunesMetaDataTagger -s "processed" -regex "\\Music\\(?<Genre>[^\\]+)\\(?<Performer>[^\\]+)\\(?<Album>[^\\]+)\\(?<TrackName>[^\\]+)\.[a-zA-Z0-9]{3,}$" -regex "\\Music\\(?<Genre>[^\\]+)\\(?<Album>[^\\]+)\\(?<TrackName>[^\\]+)\.[a-zA-Z0-9]{3,}$"

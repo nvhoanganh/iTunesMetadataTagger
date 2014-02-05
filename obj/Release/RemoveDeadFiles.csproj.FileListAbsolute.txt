@@ -1,0 +1,19 @@
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\bin\Release\RemoveDeadFiles.exe.config
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\obj\Release\Interop.iTunesLib.dll
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\obj\Release\RemoveDeadFiles.csproj.ResolveComReference.cache
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\bin\Release\RemoveDeadFiles.exe
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\bin\Release\RemoveDeadFiles.pdb
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\bin\Release\MediaInfoNET.dll
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\bin\Release\Interop.iTunesLib.dll
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\obj\Release\RemoveDeadFiles.exe
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\obj\Release\RemoveDeadFiles.pdb
+C:\Users\anguyen\Downloads\iTunesRemoveDeadFiles\RemoveDeadFiles\RemoveDeadFiles\obj\Release\RemoveDeadFiles.csprojResolveAssemblyReference.cache
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\bin\Release\RemoveDeadFiles.exe.config
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\bin\Release\RemoveDeadFiles.exe
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\bin\Release\RemoveDeadFiles.pdb
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\bin\Release\MediaInfoNET.dll
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\bin\Release\Interop.iTunesLib.dll
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\obj\Release\Interop.iTunesLib.dll
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\obj\Release\RemoveDeadFiles.csproj.ResolveComReference.cache
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\obj\Release\RemoveDeadFiles.exe
+C:\Users\anguyen\Google Drive\Projects\RemoveDeadFiles\RemoveDeadFiles\obj\Release\RemoveDeadFiles.pdb
