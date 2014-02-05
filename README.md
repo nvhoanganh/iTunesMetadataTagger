@@ -43,6 +43,7 @@ Examples:
 	then follow by more generic ones. You can specify as many Regular Expression as you like)
 
 Notes:
+========
 
 1. iTunes must be installed and running when you run this application.
 2. Everytime this application has successfully updated a track, it will set the comments field in iTunes to "processed". The next time, it will skip all tracks that comments field is "processed", unless you specifically set the search term to be "processed" (which is equivalent to reprocess all tracks again)
